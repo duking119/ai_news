@@ -1,0 +1,47 @@
+# AI新闻简报
+早上好，今天是2026年3月5日，以下是最新的AI行业新闻。
+
+---
+
+**1. 字节跳动Seedance 2.0视频模型受算力与版权问题制约**
+   🔗 [原文链接](https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/)
+   字节跳动在2月初发布了其旗舰视频模型Seedance 2.0的重大升级。然而，巨大的用户需求迅速使其算力资源紧张，同时关于模型训练数据版权的投诉也开始堆积，这共同阻碍了其AI野心的快速推进。
+
+**2. 研究显示：AI工具可“去匿名化”网络账户**
+   🔗 [原文链接](https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts)
+   一项最新研究表明，AI工具可能使识别Reddit小号、秘密X（原Twitter）账户等匿名在线身份变得容易得多。这对于希望保持匿名的用户来说，可能带来令人不安的后果。
+
+**3. Netflix收购本·阿弗莱克的AI初创公司InterPositive**
+   🔗 [原文链接](https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai)
+   Netflix宣布收购由本·阿弗莱克创立的AI公司InterPositive。该公司专注于为影视制作开发AI工具。作为交易的一部分，阿弗莱克也将以高级顾问身份加入Netflix。
+
+**4. 美国国防部正式将Anthropic列为“供应链风险”**
+   🔗 [原文链接](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk)
+   在经过数周失败的谈判、公开最后通牒和诉讼威胁后，美国国防部正式将AI公司Anthropic标记为“供应链风险”。此举升级了双方围绕AI可接受使用政策的冲突，并可能影响其与政府的业务。
+
+**5. 七家科技巨头签署特朗普的“费率支付者保护承诺”**
+   🔗 [原文链接](https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft)
+   谷歌、Meta、微软、甲骨文、OpenAI、亚马逊和xAI的领导人会见了特朗普总统，并签署了一项“费率支付者保护承诺”。这是科技公司对数据中心用电激增可能导致电费上涨的两党担忧做出的回应。
+
+**6. OpenAI发布“为智能体而生”的GPT-5.4模型**
+   🔗 [原文链接](https://gizmodo.com/openai-in-desperate-need-of-a-win-launches-gpt-5-4-2000730268)
+   在与美国国防部的合作引发争议后，OpenAI发布了最新模型GPT-5.4，旨在赢回公众信任。该公司表示，该模型在AI智能体能力方面向前迈进了一大步。
+
+**7. 初创公司计划将数据中心置于海上风力涡轮机下方**
+   🔗 [原文链接](https://gizmodo.com/this-startup-wants-to-tuck-data-centers-beneath-offshore-wind-turbines-2000729795)
+   初创公司Aikido Technologies提出了一种将数据中心模块集成到海上风力涡轮机基础结构中的新概念。此举旨在为蓬勃发展的AI产业提供一种更接近可再生能源的解决方案，并缓解陆上电网的压力。
+
+**8. Apple Music推出AI生成内容透明度标签**
+   🔗 [原文链接](https://www.macrumors.com/2026/03/05/apple-music-ai-transparency-tags/)
+   Apple Music正在推出一项名为“透明度标签”的新元数据系统，用于标识平台上使用AI参与创作的音乐。此举旨在提高音乐创作过程的透明度。
+
+**9. Google NotebookLM升级，可将笔记转换为“电影式”视频概述**
+   🔗 [原文链接](https://www.macrumors.com/2026/03/05/notebooklm-now-creates-cinematic-video-overviews/)
+   Google的AI研究工具NotebookLM获得升级，现在能够将用户的研究笔记转化为带有动画效果的“电影式”视频概述，这比此前仅能生成静态幻灯片视频的功能更进了一步。
+
+**10. AMD首次将“Ryzen AI”处理器引入标准台式机**
+   🔗 [原文链接](https://hardware.slashdot.org/story/26/03/05/2035216/amd-will-bring-its-ryzen-ai-processors-to-standard-desktop-pcs-for-first-time)
+   AMD宣布将把集成专用AI引擎（NPU）的“Ryzen AI”品牌处理器扩展到标准台式机平台。这标志着本地AI计算能力正从笔记本电脑向更广泛的PC市场普及。
+
+---
+*简报结束。以上新闻均提供原文链接，供您深入查阅。*
